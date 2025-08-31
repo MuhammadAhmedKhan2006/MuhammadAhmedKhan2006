@@ -38,6 +38,17 @@
 
 ---
 
+### 👷‍♂️ [Local Workers Pakistan](https://github.com/MuhammadAhmedKhan2006/LocalWorkersPakistan)
+**Connecting local workers with customers nationwide**
+<br>
+<img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Database-SQLite-blue?style=for-the-badge&logo=sqlite" />
+<br>
+*A platform bridging skilled local workers with customers, featuring worker profiles, service bookings, and local job marketplace.*
+
+---
+
 ### 🥘 [AlSyedPakwan](https://github.com/MuhammadAhmedKhan2006/AlSyedPakwan)
 **A complete restaurant management system**
 <br>
@@ -102,7 +113,7 @@ I bring a **tactical edge** in integrating modern AI tools and deployment stacks
 - **Vercel** – full-stack app deployment with CI/CD pipelines, serverless functions, and analytics  
 - **Netlify** – frontend & static site deployment with custom domain linking and forms  
 
-> 🧠 *“I don’t just code. I co-create with AI.”*  
+> 🧠 *"I don't just code. I co-create with AI."*  
 > My workflow fuses logic with LLMs, automating everything from bug hunting to launch.
 
 ---
@@ -111,7 +122,7 @@ I bring a **tactical edge** in integrating modern AI tools and deployment stacks
 
 🚧 **Data Structures & Algorithms**  
 
-> “A problem well understood is a problem half solved.”
+> "A problem well understood is a problem half solved."
 
 - 100+ DSA problems solved on **LeetCode**, **Codeforces**
 - Optimized solutions in C++
