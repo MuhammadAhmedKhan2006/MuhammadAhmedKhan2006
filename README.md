@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring Computer Scientist | Problem Solver | Project Builder</h3>
 
 - 🌱 I'm currently learning **Full Stack Web Development**
-- 👨‍💻 Portfolio: [My Developer Portfolio](https://stirring-speculoos-48d4c4.netlify.app)
+- 👨‍💻 Portfolio: [My Developer Portfolio](https://my-portfolio-green-delta-93.vercel.app/)
 - 💬 Ask me about **C, C++, HTML5, CSS3, OOP, Logic Building**
 - 📫 How to reach me **makhan4224@gmail.com**
 - ⚡ Fun fact: **I built a complete 2D fighting game called ARENA Fighters using only pure C—no frameworks, no engines!**
