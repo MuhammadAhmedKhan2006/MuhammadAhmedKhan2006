@@ -141,7 +141,7 @@ I bring a **tactical edge** in integrating modern AI tools and deployment stacks
 <a href="https://codeforces.com/profile/muhammadahmedkhan" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/xfvbhjrovv" target="blank">
+<a href="https://leetcode.com/u/ahmedkhan-cs/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 <a href="https://discord.gg/muhammad_ahmed_khan853" target="blank">
