@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Developer | Beginner Cybersecurity Enthusiast | CS Student @ NED University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+secure%2C+scalable+%26+innovative+solutions;Full+Stack+Developer+%7C+Cybersecurity+Learner;150%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+secure%2C+scalable+%26+innovative+solutions;Software+Developer+%7C+Cybersecurity+Learner;150%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 📫 Reach me    : makhan4224@gmail.com
 ```
 
-Computer Science student at NED University with hands-on experience in full-stack web development, database systems, and modern software engineering, along with beginner-level practical knowledge of cybersecurity, Linux, and Docker containerization gained through self-driven, hands-on learning.
+Computer Science student at NED University with hands-on experience in software development, database systems, and modern software engineering, along with beginner-level practical knowledge of cybersecurity, Linux, and Docker containerization gained through self-driven, hands-on learning.
 
 ---
 
@@ -78,12 +78,11 @@ Computer Science student at NED University with hands-on experience in full-stac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
 </p>
 
-<h4>Frameworks, Runtime & UI</h4>
+<h4>Frameworks, Runtime & UI/UX Design</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" title="Qt Framework" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" title="Vite" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" width="45" height="45"/>
 </p>
 
 <h4>Databases & Cloud</h4>
@@ -126,7 +125,6 @@ I am actively learning and exploring cybersecurity concepts with hands-on practi
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>
 </p>
 
@@ -144,7 +142,7 @@ Tools explored: `Nmap` · `Wireshark` · `Burp Suite` · `OWASP ZAP` · `SQLMap`
 <td width="50%">
 
 **🛒 Shamim Plastic House & Fancy Corner**
-Full-stack e-commerce platform
+Software-driven e-commerce platform
 
 `Node.js` `MongoDB` `Cloudinary` `Vercel`
 
@@ -174,7 +172,7 @@ Desktop Point-of-Sale application
 **🇵🇰 Pakistan Labor Finder**
 Connects customers with skilled workers
 
-`React` `Vite` `SQLite` `SQL.js`
+`SQLite` `SQL.js`
 
 - Worker search & location-based filtering
 - Full database integration
@@ -204,27 +202,6 @@ Exploring Generative AI applications
 | 🥈 Runner-Up – Web Development | Hackfest x Datathon 2026 (IBA) |
 | 🥈 Runner-Up | AI Fest 5.0, NEDUET |
 | 💻 150+ Problems Solved | LeetCode |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmedKhan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhmedKhan2006&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmedKhan2006&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmedKhan2006&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedKhan2006&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
 
 ---
 
