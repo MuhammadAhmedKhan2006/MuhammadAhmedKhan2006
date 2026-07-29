@@ -1,10 +1,10 @@
 <h1 align="center">
   Hi 👋, I'm Muhammad Ahmed Khan
 </h1>
-<h3 align="center">Aspiring Software Developer | Beginner Cybersecurity Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Beginner Cybersecurity Enthusiast | CS Junior@NEDUET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+secure%2C+scalable+%26+innovative+solutions;Software+Developer+%7C+Cybersecurity+Learner;150%2B+LeetCode+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+secure%2C+scalable+%26+innovative+solutions;Software+Developer+%7C+Cybersecurity+Learner;" alt="Typing SVG" />
 </p>
 
 <p align="center">
